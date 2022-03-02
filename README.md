@@ -9,8 +9,7 @@ S.No | Instructor | Topic | Github
 
 # Folders and Contents 
 S.No | Folder Name | Contents  
-1. | Introduction to Deep Learning | Pdf of notes ( Basics, Learning Map, ANN vs BNN, 1st Artificial Neuron)
-2. | Perceptron | Pdf of Notes(Basics, Mathematical intuition), Python Implementation 
+1. | Perceptron | Pdf of Notes(Basics, Mathematical intuition), Python Implementation 
 
 
 
