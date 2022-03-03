@@ -1,1 +1,1 @@
-This directory explains how a modular Python code should look like will all the necessary directories and scripts
+This directory explains how a modular Python code should look like will all the necessary directories and scripts. This is a simple example of how a code is properly expressed. Similarly we can do the same for and.py as well. This is a proper pythonic way of creating a perceptron class. 
