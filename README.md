@@ -9,7 +9,7 @@ S.No | Instructor | Topic | Github
 
 # Folders and Contents 
 S.No | Folder Name | Contents  
-1. | Perceptron | Pdf of Notes(Basics, Mathematical intuition), Python Implementation 
+1. | Perceptron | Pdf of Notes(Basics, Mathematical intuition), Python Implementation, Python Scripting and Modular Coding, Python logging basics, github actions
 
 
 
