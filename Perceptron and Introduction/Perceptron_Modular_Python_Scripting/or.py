@@ -15,6 +15,8 @@ def main(data, modelName, plotName, eta, epochs):
     model.save(filename=modelName, model_dir="model")
     save_plot(df_OR, model, filename=plotName)
 
+    
+# Entry Point where your code will start
 if __name__ == "__main__":
     OR = {
         "x1": [0,0,1,1],
