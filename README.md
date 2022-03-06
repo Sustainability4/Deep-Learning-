@@ -11,6 +11,7 @@ S.No | Instructor | Topic | Github
 # Folders and Contents 
 S.No | Folder Name | Contents  
 1. | Perceptron | Pdf of Notes(Basics, Mathematical intuition), Python Implementation, Python Scripting and Modular Coding, Python logging basics, github actions
+2. | Artificial Neural Network | Pdf Notes(Multilayer perceptron, ANN basics, Need for activation function), ANN basics demo code 
 
 
 
