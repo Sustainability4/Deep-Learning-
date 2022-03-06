@@ -6,6 +6,7 @@ I took up the Masters in Data Science course from i Neuron. Deep Learning was ta
 S.No | Instructor | Topic | Github 
 1. | SUNNY BHAVEEN CHANDRA |  Basics of Deep Learning | c17hawke
 2. | SUNNY BHAVEEN CHANDRA | Perceptron | c17hawke
+3. | SUNNY BHAVEEN CHANDRA | Artificial Neural Network | c17hawke
 
 # Folders and Contents 
 S.No | Folder Name | Contents  
