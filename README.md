@@ -8,6 +8,7 @@ S.No | Instructor | Topic | Github
 2. | SUNNY BHAVEEN CHANDRA | Perceptron | c17hawke
 3. | SUNNY BHAVEEN CHANDRA | Artificial Neural Network | c17hawke
 4. | SUNNY BHAVEEN CHANDRA | Activation Functions | c17hawke
+5. | SUNNY BHAVEEN CHANDRA | Transfer Learning | c17hawke
 
 # Folders and Contents 
 S.No | Folder Name | Contents  
