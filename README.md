@@ -9,6 +9,7 @@ S.No | Instructor | Topic | Github
 3. | SUNNY BHAVEEN CHANDRA | Artificial Neural Network | c17hawke
 4. | SUNNY BHAVEEN CHANDRA | Activation Functions | c17hawke
 5. | SUNNY BHAVEEN CHANDRA | Transfer Learning | c17hawke
+6. | SUNNY BHAVEEN CHANDRA | Batch Normalisation | c17hawke
 
 # Folders and Contents 
 S.No | Folder Name | Contents  
