@@ -11,6 +11,7 @@ S.No | Instructor | Topic | Github
 5. | SUNNY BHAVEEN CHANDRA | Transfer Learning | c17hawke
 6. | SUNNY BHAVEEN CHANDRA | Batch Normalisation | c17hawk
 7. | SUNNY BHAVEEN CHANDRA | Optimisers | c17hawke
+8. | SUNNY BHAVEEN CHANDRA | Loss Function | c17hawke
 
 # Folders and Contents 
 S.No | Folder Name | Contents  
